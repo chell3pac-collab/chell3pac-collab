@@ -27,6 +27,7 @@ Junior Frontend Developer from Mogilev, Belarus.
 | TravelBlog — travel blog | React, React Router, serverless API | [travelblog-peach.vercel.app](https://travelblog-peach.vercel.app) |
 | Houzzy — furniture catalog | HTML, SCSS, adaptive layout | [houzzi.vercel.app](https://houzzi.vercel.app) |
 | Valinabali — travel agency gallery | HTML, SCSS, adaptive layout | [valinabali-omega.vercel.app](https://valinabali-omega.vercel.app) |
+| Guidebook to Saint Petersburg — city guide | HTML, SCSS, JS | [guidebook-saint-petersburg.vercel.app](https://guidebook-saint-petersburg.vercel.app) |
 | Airport Board — flight board | HTML, SCSS, JS | [airportboard.vercel.app](https://airportboard.vercel.app) |
 | Currency Converter | HTML, SCSS, JS | [currency-converter-hazel-tau.vercel.app](https://currency-converter-hazel-tau.vercel.app) |
 
